@@ -1,0 +1,28 @@
+GIT sistema de control de versiones.
+
+GITHUB
+
+"red social" o plataforma donde se suben repositorios de manera pública o privadas sumar personas al proyectos, etc.
+
+Comandos para consola 
+Cd "change directory" (cambiar de directorio o carpeta)
+
+ls "list" (linux)/dir (windows) (Mostrar listado de carpetas y archivos)
+
+mkdir = crear directorio/carpeta escribir mkdir + nombre de la nueva carpeta separado por un espacio
+
+rm =
+
+cls = limpiar consola
+
+git clone + link del repositorio (descargar un repositorio desde consola)
+
+git status 
+
+git add pasar del local al limbo místico (Sta
+
+git commit -m + "texto entre comillas descriptivo" (prepara para subir (push) una modificación del programa
+
+git push (sube el archivo modificado) se requiere iniciar sesión en git hub
+
+
